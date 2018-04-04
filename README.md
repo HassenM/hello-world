@@ -1,2 +1,8 @@
 # hello-world
-test github features
+
+## Important things to know on github 
+
+### Branch 
+- Create a new branch 
+- Merge branch
+
